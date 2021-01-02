@@ -5,4 +5,8 @@
     <RootNamespace>Azure_2_Github</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+
 </Project>
